@@ -25,15 +25,14 @@ $posts = Read::get_contacts($pdo);
     <title>Perhitungan NA dan Koversi NH</title>
     <meta name="description" content="The small framework with powerful features">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="css/app.css">
 
 </head>
 
 <body>
     <section class="intro">
-        <div class="bg-image h-100" style="background-image: url(https://mdbootstrap.com/img/Photos/new-templates/glassmorphism-article/img8.jpg);">
+        <div class="bg-image h-100" style="">
             <div class="mask d-flex align-items-center h-100">
                 <div class="container">
                     <div class="row justify-content-center">
