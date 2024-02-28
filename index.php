@@ -77,10 +77,10 @@ $posts = Read::get_contacts($pdo);
                                                 </thead>
                                                 <tbody>
                                                     <tr>
-                                                        <td><input type="text" name="nilai_partisipasi" class="form-control" placeholder="Nilai Partisipasi"></td>
-                                                        <td><input type="text" name="nilai_tugas" class="form-control" placeholder="Nilai Tugas"></td>
-                                                        <td><input type="text" name="nilai_uts" class="form-control" placeholder="Nilai UTS"></td>
-                                                        <td><input type="text" name="nilai_uas" class="form-control" placeholder="Nilai UAS"></td>
+                                                        <td><input type="text" name="partisipasi" class="form-control" placeholder="Nilai Partisipasi"></td>
+                                                        <td><input type="text" name="tugas" class="form-control" placeholder="Nilai Tugas"></td>
+                                                        <td><input type="text" name="uts" class="form-control" placeholder="Nilai UTS"></td>
+                                                        <td><input type="text" name="uas" class="form-control" placeholder="Nilai UAS"></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
